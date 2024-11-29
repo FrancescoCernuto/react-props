@@ -1,4 +1,7 @@
 import Button from "./Button";
+import Badge from "./Badge";
+
+const defaultImgPath = "https://placehold.co/600x400";
 export default function Card() {
     return (
         <>
